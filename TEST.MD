@@ -62,3 +62,16 @@ REPO=test_repo_01
  -REPO=test_repo_01  
  -Sleeping for 2 seconds at Tue, Jun  4, 2024  8:01:52 PM  
  -Finished Sleeping for 2 seconds at Tue, Jun  4, 2024  8:01:55 PM  
+
+## ----- START OF NEW TEST RUN -----
+DATE=Tue, Jun  4, 2024  8:04:40 PM  
+RUNS=2  
+SECONDS=2
+
+REPO=test_repo_01  
+
+**START of Check-In #1 at Tue, Jun  4, 2024  8:04:44 PM**  
+ -Run #1  
+ -REPO=test_repo_01  
+ -Sleeping for 2 seconds at Tue, Jun  4, 2024  8:04:45 PM  
+ -Finished Sleeping for 2 seconds at Tue, Jun  4, 2024  8:04:48 PM  
